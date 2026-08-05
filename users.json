@@ -1,13 +1,9 @@
 {
-  "users": [
-    {
-      "username": "admin",
-      "passwordHash": "admin",
-      "name": "admin",
-      "role": "admin",
-      "church": "Gereja Kamu",
-      "active": true,
-      "expiresAt": null
-    }
-  ]
+  "username": "gerejaABC",
+  "passwordHash": "hasilSHA256",
+  "name": "Operator Gereja ABC",
+  "role": "user",
+  "church": "Gereja ABC",
+  "active": true,
+  "expiresAt": "2027-12-31"
 }

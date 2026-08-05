@@ -1,9 +1,13 @@
 {
-  "username": "christ",
-  "passwordHash": "admin123",
-  "name": "Operator Gereja ABC",
-  "role": "user",
-  "church": "Gereja ABC",
-  "active": true,
-  "expiresAt": "2027-12-31"
+  "users": [
+    {
+      "username": "christ",
+      "password": "admin123",
+      "name": "Operator Gereja ABC",
+      "role": "Owner",
+      "church": "Gereja ABC",
+      "active": true,
+      "expiresAt": "2027-12-31"
+    }
+  ]
 }

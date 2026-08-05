@@ -1,6 +1,6 @@
 {
-  "username": "gerejaABC",
-  "passwordHash": "hasilSHA256",
+  "username": "christ",
+  "passwordHash": "admin123",
   "name": "Operator Gereja ABC",
   "role": "user",
   "church": "Gereja ABC",

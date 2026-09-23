@@ -15,10 +15,8 @@
       "role": "Moderator",
       "active": true,
       "expiresAt": "2026-10-23"
-    }
-  ]
-},
-{
+    },
+    {
       "username": "Guest",
       "password": "1",
       "name": "GUEST",

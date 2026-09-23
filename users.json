@@ -1,28 +1,26 @@
-{
-  "users": [
-    {
-      "username": "christ",
-      "password": "1",
-      "name": "Christ",
-      "role": "Owner",
-      "active": true,
-      "expiresAt": "2027-12-31"
-    },
-    {
-      "username": "PUTR4HXX",
-      "password": "1",
-      "name": "PUTR4HXX",
-      "role": "Moderator",
-      "active": true,
-      "expiresAt": "2026-10-23"
-    },
-    {
-      "username": "Guest",
-      "password": "1",
-      "name": "GUEST",
-      "role": "Member",
-      "active": true,
-      "expiresAt": "2026-10-19"
-    }
-  ]
-}
+[
+  {
+    "username": "christ",
+    "password": "1",
+    "name": "Christ",
+    "role": "Owner",
+    "active": true,
+    "expiresAt": "2027-12-31"
+  },
+  {
+    "username": "PUTR4HXX",
+    "password": "1",
+    "name": "PUTR4HXX",
+    "role": "Moderator",
+    "active": true,
+    "expiresAt": "2026-10-23"
+  },
+  {
+    "username": "Guest",
+    "password": "1",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2026-10-19"
+  }
+]

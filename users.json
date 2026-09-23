@@ -10,3 +10,15 @@
     }
   ]
 }
+{
+  "users": [
+    {
+      "username": "PUTR4HXX",
+      "password": "1",
+      "name": "PUTR4HXX",
+      "role": "Member",
+      "active": true,
+      "expiresAt": "2026-10-23"
+    }
+  ]
+}

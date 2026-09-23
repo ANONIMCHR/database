@@ -7,11 +7,7 @@
       "role": "Owner",
       "active": true,
       "expiresAt": "2027-12-31"
-    }
-  ]
-},
-{
-  "users": [
+    },
     {
       "username": "PUTR4HXX",
       "password": "1",

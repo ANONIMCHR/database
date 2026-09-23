@@ -4,7 +4,7 @@
       "username": "christ",
       "password": "1",
       "name": "Christ",
-      "role": "Owner",
+      "role": "Moderator",
       "active": true,
       "expiresAt": "2027-12-31"
     },

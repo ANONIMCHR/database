@@ -22,5 +22,13 @@
     "role": "Member",
     "active": true,
     "expiresAt": "2026-10-19"
+  },
+  {
+    "username": "Zamzz",
+    "password": "1",
+    "name": "Zamzz",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2026-10-26"
   }
 ]

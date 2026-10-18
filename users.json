@@ -38,5 +38,245 @@
     "role": "Member",
     "active": true,
     "expiresAt": "2026-10-26"
+  },
+  {
+    "username": "GUEST01",
+    "password": "K7M2X9A",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST02",
+    "password": "P4R8T2Z",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST03",
+    "password": "N6W3B9Q",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST04",
+    "password": "X2D7L5F",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST05",
+    "password": "H9C4V1M",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST06",
+    "password": "T3K8Y6R",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST07",
+    "password": "B5N2Q7W",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST08",
+    "password": "Z8F4J3P",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST09",
+    "password": "M1X6R9D",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST10",
+    "password": "Q7V2H5K",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST11",
+    "password": "A4T9N3X",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST12",
+    "password": "R6P1W8C",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST13",
+    "password": "D2Y7K4M",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST14",
+    "password": "V9B3F6T",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST15",
+    "password": "J5Q8X2N",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST16",
+    "password": "W3M7C1Z",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST17",
+    "password": "F8R2L6A",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST18",
+    "password": "Y4N9P3D",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST19",
+    "password": "C7X1T5V",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST20",
+    "password": "L2H6Q8B",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST21",
+    "password": "G9D4W2K",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST22",
+    "password": "U5A8M3R",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST23",
+    "password": "E1Z7N4P",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST24",
+    "password": "S6K2V9H",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST25",
+    "password": "O3B8X5T",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST26",
+    "password": "I7R4C1Y",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST27",
+    "password": "N2F9L6W",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST28",
+    "password": "X5P3D8A",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST29",
+    "password": "T1V7H4Q",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
+  },
+  {
+    "username": "GUEST30",
+    "password": "B8Y2M6Z",
+    "name": "GUEST",
+    "role": "Member",
+    "active": true,
+    "expiresAt": "2027-07-18"
   }
 ]

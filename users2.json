@@ -1,1 +1,14 @@
-
+{
+    "admin": {
+        "password": "ADMIN",
+        "name": "W4HX",
+        "role": "Owner",
+        "expired": "2026-12-31 23:59:59"
+    },
+    "tester": {
+        "password": "tester123",
+        "name": "Tester PC",
+        "role": "VIP",
+        "expired": "2025-08-20 12:00:00"
+    }
+}
